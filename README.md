@@ -18,7 +18,11 @@ A real-time hand gesture-based volume controller built with Python, OpenCV, Medi
 ## Gesture Controls
 
  ✊ Fist → ☝️ Index finger >> Increase volume by 5% 
+
+ 
  ✊ Fist → ✌️ Peace pose   >> Decrease volume by 5% 
+
+ 
  🖐️ Open hand              >> Toggle mute / unmute   
 
  
@@ -46,17 +50,30 @@ python main.py
 
 ## Project Structure
 
-HandAI/
+HandAI
+
+
+
 │
-├── main.py                  # Main application
-├── config.py                # Project configuration
-├── gesture_detector.py      # Hand gesture detection
-├── hand_controller.py      # Windows volume control
-├── test_volume.py           # Audio control test
-├── hand_landmarker.task     # MediaPipe hand model
-├── requirements.txt         # Python dependencies
-├── .gitignore               # Files ignored by Git
-└── README.md                # Project documentation
+
+
+├── main.py                    # Main application
+
+├── config.py                  # Project configuration
+
+├── gesture_detector.py        # Hand gesture detection
+
+├── hand_controller.py         # Windows volume control
+
+├── test_volume.py              # Audio control test
+
+├── hand_landmarker.task        # MediaPipe hand model
+
+├── requirements.txt            # Python dependencies
+
+├── .gitignore                 # Files ignored by Git
+
+└── README.md                  # Project documentation
 
 
 
