@@ -2,6 +2,10 @@
 
 A real-time hand gesture-based volume controller built with Python, OpenCV, MediaPipe, and Pycaw.
 
+## Demo
+
+![Hand AI Volume Controller](hand-ai-demo.png)
+
 ## Features
 
 - Real-time hand detection using MediaPipe
