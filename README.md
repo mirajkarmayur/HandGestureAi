@@ -5,6 +5,7 @@ A real-time hand gesture-based volume controller built with Python, OpenCV, Medi
 ## Demo
 
 ![Hand AI Volume Controller](hand-ai-demo.png)
+hand-ai-demo.mp4
 
 ## Features
 
